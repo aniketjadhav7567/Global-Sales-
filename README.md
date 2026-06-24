@@ -7,7 +7,7 @@
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Overview](screenshots/overview.png)
+![Dashboard Overview](page1_overview.png)
 ![Revenue Trend](screenshots/revenue_trend.png)
 
 ---
